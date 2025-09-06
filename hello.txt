@@ -1,2 +1,3 @@
 Hello, World!
 This is a greeting message.
+Hello, Git and GitHub!
